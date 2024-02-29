@@ -2,3 +2,4 @@
 
 A collection of pixelated human-like figures generated using pixel art and programming. This piece is inspired by the boom of NFT digital art. It symbolizes the uniqueness amid the similarities of humans.
 
+![PixelMan Collection](https://github.com/FilbertMaano/nft-generator/blob/main/PixelMan-Collection.png)
